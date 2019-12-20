@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFactorBetting.Entities"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFactorBetting.Context", "Assemblies\FourFactorBetting.Context\FourFactorBetting.Context.csproj", "{B774842D-589C-44E7-A295-6EE2B857A888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFactorBetting.Enumerators", "Assemblies\FourFactorBetting.Enumerators\FourFactorBetting.Enumerators.csproj", "{B96EE3FB-6361-4DDF-B53B-5A25A0A7D918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{B774842D-589C-44E7-A295-6EE2B857A888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B774842D-589C-44E7-A295-6EE2B857A888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B774842D-589C-44E7-A295-6EE2B857A888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96EE3FB-6361-4DDF-B53B-5A25A0A7D918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96EE3FB-6361-4DDF-B53B-5A25A0A7D918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96EE3FB-6361-4DDF-B53B-5A25A0A7D918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96EE3FB-6361-4DDF-B53B-5A25A0A7D918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{2A1B3416-B52C-4F1C-9900-B3FA0F210A9B} = {ABB439C3-6943-4FA6-8C60-0900B7EA27E6}
 		{88C7806A-502B-483E-976D-EBD316EE0743} = {3245D8BA-93C7-493B-9493-F1CAAA71FC61}
 		{B774842D-589C-44E7-A295-6EE2B857A888} = {3245D8BA-93C7-493B-9493-F1CAAA71FC61}
+		{B96EE3FB-6361-4DDF-B53B-5A25A0A7D918} = {3245D8BA-93C7-493B-9493-F1CAAA71FC61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF34433A-81F3-43BA-B232-3853778C3C89}
